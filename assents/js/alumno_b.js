@@ -18,3 +18,5 @@ const usuariosVIP = [
     juegosFavoritos: ["Sonic"]
   }
 ];
+
+console.log("usuarioscargados", usuariosVIP);
