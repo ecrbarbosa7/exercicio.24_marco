@@ -5,6 +5,7 @@ const inventarioTienda = [
     esDigital: false,
     generos: ["Plataformas"]
   },
+
   {
     titulo: "Sonic",
     precio: 44.99,
@@ -18,3 +19,4 @@ const inventarioTienda = [
     generos: ["Puzzle"]
   }
 ];
+console.log("inventario cargado", inventarioTienda)
